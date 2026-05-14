@@ -1,1 +1,13 @@
-{\n  "schemaVersion": "1.0",\n  "slug": "local-business",\n  "name": "Local Business",\n  "description": "Framework-neutral HTML source for a local service business website.",\n  "category": "Local Business",\n  "tags": ["html", "local-business", "services"],\n  "version": "2026.05.14",\n  "supportedStacks": ["nextJs"],\n  "pages": [{ "path": "index.html", "title": "Home" }],\n  "previewImage": "assets/preview.svg",\n  "interviewGuide": "Ask about services, service area, hours, trust signals, booking flow, and local SEO needs."\n}\n
+{
+  "schemaVersion": "1.0",
+  "slug": "local-business",
+  "name": "Local Business",
+  "description": "Framework-neutral HTML source for a local service business website.",
+  "category": "Local Business",
+  "tags": ["html", "local-business", "services"],
+  "version": "2026.05.14",
+  "supportedStacks": ["nextJs"],
+  "pages": [{ "path": "index.html", "title": "Home" }],
+  "previewImage": "assets/preview.svg",
+  "interviewGuide": "Ask about services, service area, hours, trust signals, booking flow, and local SEO needs."
+}
